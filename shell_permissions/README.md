@@ -1,1 +1,1 @@
-README.md for shell_permissions
+#!/bin/bash
